@@ -1,1 +1,1 @@
-- How to get started with Lit
+# How to get started with Lit
